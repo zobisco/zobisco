@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks! 👋 welcome to my GitHub page. I'm Zoe</h1>
-<h3 align="center">Learning to code one mini struggle at a time</h3>
+<h3 align="left">Learning to code one mini struggle at a time</h3>
 
 - 🔭 I’m currently working on [Leeds University Reboot Digital Coding Camp](https://www.leedstrinity.ac.uk/study/reboot/digital-coding/)
 
