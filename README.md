@@ -29,6 +29,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zobisco&label=Profile%20views&color=0e75b6&style=flat" alt="zobisco" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobisco&show_icons=true&locale=en&layout=compact" alt="zobisco" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zoebscott"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zoebscott" /></a><a href="https://ko-fi.com/zoebiscott"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zoebiscott" /></a></p><br><br>
