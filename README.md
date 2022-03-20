@@ -1,5 +1,5 @@
 <h1 align="left">Hi folks! 👋 welcome to my GitHub page. I'm Zoe</h1>
-<h3 align="left">Learning to code one mini struggle at a time</h3>
+<h3 align="left">Learning to code one micro struggle at a time</h3>
 
 - 🔭 I’m currently working on [DSB101 Skills Bootcamp in Software Engineering](https://www.aston.ac.uk/study/courses/skills-bootcamp-in-software-engineering)
 
