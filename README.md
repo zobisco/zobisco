@@ -6,7 +6,7 @@
   - [FireBrand Junior Software Engineer Training Skills Bootcamp](https://firebrand.training/uk/academy/skills-bootcamps/software/junior-software-developer)
   - [Leeds University Reboot Digital Coding Camp](https://www.leedstrinity.ac.uk/study/reboot/digital-coding/)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, C#, Java & Python**
+- 🌱 I’m currently learning **HTML, CSS, vanilla JS, SQL & Python**
 
 - 👨‍💻 All of my projects are available on: [https://github.com/zobisco/zobisco](https://github.com/zobisco/zobisco)
 
