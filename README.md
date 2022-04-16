@@ -1,9 +1,10 @@
 <h1 align="left">Hi folks! 👋 welcome to my GitHub page. I'm Zoe</h1>
 <h3 align="left">Learning to code one micro struggle at a time</h3>
 
-- 🔭 I’m currently working on [DSB101 Skills Bootcamp in Software Engineering](https://www.aston.ac.uk/study/courses/skills-bootcamp-in-software-engineering)
-
-- 🔭 I have just completed the following two courses: [Leeds University Reboot Digital Coding Camp](https://www.leedstrinity.ac.uk/study/reboot/digital-coding/) and [FireBrand Junior Software Engineer Training Skills Bootcamp](https://firebrand.training/uk/academy/skills-bootcamps/software/junior-software-developer)
+- 🔭 I have just completed the following three courses:
+  - [DSB101 Skills Bootcamp in Software Engineering](https://www.aston.ac.uk/study/courses/skills-bootcamp-in-software-engineering)
+  - [FireBrand Junior Software Engineer Training Skills Bootcamp](https://firebrand.training/uk/academy/skills-bootcamps/software/junior-software-developer)
+  - [Leeds University Reboot Digital Coding Camp](https://www.leedstrinity.ac.uk/study/reboot/digital-coding/)
 
 - 🌱 I’m currently learning **HTML, CSS, JS, C#, Java & Python**
 
