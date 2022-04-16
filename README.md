@@ -1,4 +1,4 @@
-<h1 align="left">Hi folks! 👋 welcome to my GitHub page. I'm Zoe</h1>
+<h2 align="left">Hi folks! 👋 welcome to my GitHub page, I'm Zoe, an aspirting full-stack developer</h2>
 <h3 align="left">Learning to code one micro struggle at a time</h3>
 
 - 🔭 I have just completed the following three courses:
