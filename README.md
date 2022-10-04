@@ -1,12 +1,13 @@
-<h2 align="left">Hi folks! 👋 welcome to my GitHub page, I'm Zoe, an aspiring full-stack developer</h2>
+<h2 align="left">Hi folks! 👋 welcome to my GitHub page, I'm Zoe, a full-stack developer</h2>
 <h3 align="left">Learning to code one micro struggle at a time</h3>
 
 - 🔭 I have just completed the following three courses:
+  - [CFG Full Stack NanoDegree](https://codefirstgirls.com/courses/cfgdegree/)
   - [DSB101 Skills Bootcamp in Software Engineering](https://www.aston.ac.uk/study/courses/skills-bootcamp-in-software-engineering)
   - [FireBrand Junior Software Engineer Training Skills Bootcamp](https://firebrand.training/uk/academy/skills-bootcamps/software/junior-software-developer)
   - [Leeds University Reboot Digital Coding Camp](https://www.leedstrinity.ac.uk/study/reboot/digital-coding/)
 
-- 🌱 I’m currently learning **HTML, CSS, vanilla JS, SQL & Python**
+- 🌱 I’m currently using **SQL, TypeScript & Python**
 
 - 👨‍💻 All of my projects are available on: [https://github.com/zobisco/zobisco](https://github.com/zobisco/zobisco)
 
